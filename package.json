@@ -1,0 +1,23 @@
+{
+  "name": "match-block",
+  "description": "Match multiple code blocks",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seanc/match-block",
+  "author": "Sean Wilson (https://imsean.me)",
+  "repository": "seanc/match-block",
+  "bugs": {
+    "url": "https://github.com/seanc/match-block/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "markdown",
+    "code block"
+  ]
+}
