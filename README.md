@@ -22,9 +22,10 @@ match('```foo bar```') // foo bar
 Match text between block
 
 **Returns**: `String`
-| Parameter | Type | description
+| Parameter | Type | Description |
 | --- | --- | --- |
-| nested | `Boolean` | `Parse nested blocks`
+| nested | `Boolean` | `Parse nested blocks` |
+
 ## License
 
 MIT © [Sean Wilson](https://imsean.me)
